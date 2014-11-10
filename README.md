@@ -1,4 +1,4 @@
-Machine Learning with C++
+Predicting the stockmarket trend - Machine Learning with C++
 ========================
 
 My own machine learning algorithm in C++! 
